@@ -1,0 +1,270 @@
+[
+    {
+        "childAndExtraBedPolicy": {
+            "extraBedProvidedForChild": true,
+            "extraBedForAdditionalGuest": true,
+            "extraBedCharge": 1123,
+            "additionalInfo": "Additional charges may apply"
+        },
+        "_id": "6527dc50de44dd75f5271daf",
+        "name": "Radisson Blu",
+        "location": "Bangalore, Karnataka",
+        "rating": 5,
+        "amenities": [
+            "Swimming Pool",
+            "Spa"
+        ],
+        "images": [
+            "https://unsplash.com/photos/dhwvHSZ124g/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjkwfHxob3RlbHxlbnwwfHx8fDE2OTcwOTMzNjF8MA",
+            "https://unsplash.com/photos/7ZD_JIwl410/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjI0fHxob3RlbHxlbnwwfHx8fDE2OTcxMDMzMTN8MA",
+            "https://unsplash.com/photos/GM7cm1IC6Ss/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MjIwfHxob3RlbHxlbnwwfHx8fDE2OTcwOTMyMDF8MA",
+            "https://unsplash.com/photos/YC8qqp50BdA/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MzV8fGhvdGVsfGVufDB8fHx8MTY5NzA3NzMxM3ww",
+            "https://unsplash.com/photos/i4rOpdj444c/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8MTMyfHxob3RlbHxlbnwwfHx8fDE2OTcwMjA2OTJ8MA"
+        ],
+        "rooms": [
+            {
+                "costDetails": {
+                    "baseCost": 6303,
+                    "taxesAndFees": 387,
+                    "discount": 0
+                },
+                "roomNumber": 1,
+                "roomType": "Double",
+                "costPerNight": 6803,
+                "roomSize": 300,
+                "bedDetail": "2 Twin Beds",
+                "price": 3785,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db0"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 4886,
+                    "taxesAndFees": 100,
+                    "discount": 0
+                },
+                "roomNumber": 2,
+                "roomType": "Suite",
+                "costPerNight": 4806,
+                "roomSize": 250,
+                "bedDetail": "2 Twin Beds",
+                "price": 8727,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db1"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 6886,
+                    "taxesAndFees": 400,
+                    "discount": 0
+                },
+                "roomNumber": 3,
+                "roomType": "Double",
+                "costPerNight": 7639,
+                "roomSize": 300,
+                "bedDetail": "2 Twin Beds",
+                "price": 2252,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db2"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 3393,
+                    "taxesAndFees": 391,
+                    "discount": 0
+                },
+                "roomNumber": 4,
+                "roomType": "Suite",
+                "costPerNight": 7352,
+                "roomSize": 300,
+                "bedDetail": "1 Queen Bed",
+                "price": 8529,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db3"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 7387,
+                    "taxesAndFees": 360,
+                    "discount": 0
+                },
+                "roomNumber": 5,
+                "roomType": "Double",
+                "costPerNight": 4285,
+                "roomSize": 300,
+                "bedDetail": "1 Queen Bed",
+                "price": 9129,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db4"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 2941,
+                    "taxesAndFees": 117,
+                    "discount": 0
+                },
+                "roomNumber": 6,
+                "roomType": "Deluxe",
+                "costPerNight": 7570,
+                "roomSize": 250,
+                "bedDetail": "1 Queen Bed",
+                "price": 3438,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db5"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 3417,
+                    "taxesAndFees": 247,
+                    "discount": 0
+                },
+                "roomNumber": 7,
+                "roomType": "Deluxe",
+                "costPerNight": 2465,
+                "roomSize": 250,
+                "bedDetail": "1 Queen Bed",
+                "price": 3159,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db6"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 2976,
+                    "taxesAndFees": 328,
+                    "discount": 0
+                },
+                "roomNumber": 8,
+                "roomType": "Double",
+                "costPerNight": 6259,
+                "roomSize": 250,
+                "bedDetail": "1 Queen Bed",
+                "price": 3699,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db7"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 1612,
+                    "taxesAndFees": 129,
+                    "discount": 0
+                },
+                "roomNumber": 9,
+                "roomType": "Single",
+                "costPerNight": 4204,
+                "roomSize": 400,
+                "bedDetail": "1 Queen Bed",
+                "price": 7044,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db8"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 5230,
+                    "taxesAndFees": 390,
+                    "discount": 0
+                },
+                "roomNumber": 10,
+                "roomType": "Deluxe",
+                "costPerNight": 9052,
+                "roomSize": 250,
+                "bedDetail": "2 Twin Beds",
+                "price": 2841,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271db9"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 6823,
+                    "taxesAndFees": 243,
+                    "discount": 0
+                },
+                "roomNumber": 11,
+                "roomType": "Single",
+                "costPerNight": 2332,
+                "roomSize": 350,
+                "bedDetail": "2 Twin Beds",
+                "price": 9166,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271dba"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 2684,
+                    "taxesAndFees": 327,
+                    "discount": 0
+                },
+                "roomNumber": 12,
+                "roomType": "Double",
+                "costPerNight": 4598,
+                "roomSize": 350,
+                "bedDetail": "1 Queen Bed",
+                "price": 7024,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271dbb"
+            },
+            {
+                "costDetails": {
+                    "baseCost": 3619,
+                    "taxesAndFees": 103,
+                    "discount": 0
+                },
+                "roomNumber": 13,
+                "roomType": "Deluxe",
+                "costPerNight": 9754,
+                "roomSize": 350,
+                "bedDetail": "2 Twin Beds",
+                "price": 6557,
+                "cancellationPolicy": "Free Cancellation till 24 hrs before check in",
+                "meals": [],
+                "offers": [],
+                "_id": "6527dc50de44dd75f5271dbc"
+            }
+        ],
+        "houseRules": {
+            "restrictions": {
+                "idProofsAccepted": [
+                    "Aadhar",
+                    "Govt. ID"
+                ],
+                "petsAllowed": true,
+                "smokingAllowed": true
+            },
+            "guestProfile": {
+                "unmarriedCouplesAllowed": false
+            },
+            "idProofRelated": {
+                "idProofsAccepted": [
+                    "Passport"
+                ],
+                "localIdsAllowed": false
+            },
+            "_id": "6527dc50de44dd75f5271dbd"
+        },
+        "__v": 0,
+        "avgCostPerNight": 5932.2307692307695
+    }
+]
